@@ -23,7 +23,6 @@ body {
   justify-content: center;
   align-items: safe;
   border-radius: 10px;
-
   h1 {
     color: #ff9000;
   }
@@ -37,7 +36,6 @@ body {
       font-weight: normal;
     }
   }
-
 }
 
 .container > .word-space {
@@ -64,7 +62,6 @@ body {
   align-items: center;
   gap: 5px;
   width: 100%;
-
 }
 
 .virtual-keyboard .row {
